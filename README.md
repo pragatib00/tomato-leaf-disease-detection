@@ -28,8 +28,7 @@ The model uses Transfer Learning with MobileNetV2 pretrained on ImageNet and fin
 - Output Layer (Softmax – 4 classes)
 
 ## Live App
-
-- 
+- https://tomato-leaf-disease-detection001.streamlit.app/
 
 ## Evaluation
 - Validation Accuracy: ~92%
